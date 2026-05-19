@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @arlon76 (Arlon Arriola) <a href="https://arlon76.github.io">arlon76.github.io</a>
 - 👀 I’m interested in Java in particular, but I also love all other programming topics as well.
-- 🌱 I’m currently learning TCP/IP concepts in CST-311
+- First log in to this page: <a href="https://bee.icu">Bee.icu</a>
+- I once wrote: 🌱 I’m currently learning TCP/IP concepts in CST-311
 - 💞️ I’m looking to collaborate on AccountBlaster, Super Bomb Reversi, Santa Cruz Web Factory, Santa Cruz Software Factory, Web Blaster, Appraisal Blaster, Blast Blaster and maybe someday making robots.
 - 📫 Contact Through: Santa Cruz Web Factory
 
