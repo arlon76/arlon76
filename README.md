@@ -753,7 +753,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 <a href="https://super-bomb.com">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:FF004D,50:00E5FF,80:FF00FF,100:000000&height=280&section=header&text=💣%20SUPER%20BOMB%20REVERSI%20💣&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&width=1400" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:FF004D,50:00E5FF,80:FF00FF,100:000000&height=280&section=header&text=💣%20SUPER%20BOMB%20REVERSI%20💣&fontSize=54&fontColor=000000&animation=twinkling&fontAlignY=38&width=1400" />
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&duration=1000&pause=200&color=FF004D&background=000000FF&center=true&vCenter=true&repeat=true&width=1600&height=120&lines=REVERSI+SYSTEMS+ONLINE;HEXAGONAL+BEEVERSI+ENGAGED;MULTIPLAYER+ARENAS+READY;TOURNAMENT+MODE+ACTIVE;⚡+FULL+POWER+⚡" />
