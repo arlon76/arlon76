@@ -5,7 +5,7 @@
 <a href="https://super-bomb.com">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=1800&pause=400&color=00E5FF&background=000000FF&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=320&lines=⚡ARLON76+⚡;◤+CYBERSPACE+ENGINEER+◢;💣+SUPER+BOMB+NETWORK+💣;🐝+BEEVERSI+SWARM+ONLINE+🐝;🌊+SANTA+CRUZ+WEB+FACTORY+🌊" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0011ff,50:00e5ff,75:ff00ff,100:000000&height=180&section=header&text=🦓ARLON%20🐆🐅%20ARRIOLA%20🦔%20🐑🐐&fontSize=60&fontColor=002200&animation=twinkling&fontAlignY=35&background=000000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0011ff,50:00e5ff,75:ff00ff,100:000000&height=180&section=header&text=🕸ARL💥N%20🐆🦓RRI🔥LA🐑🐐&fontSize=60&fontColor=002200&animation=twinkling&fontAlignY=35&background=000000&width=2000" />
 </a>
 </div>
 
