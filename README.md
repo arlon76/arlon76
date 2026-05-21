@@ -921,6 +921,34 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
+---
+
+<div align="center">
+
+<a href="https://arlon76.github.io">
+<img src="https://img.shields.io/badge/⚡_ARLON76.PORTAL-ONLINE-00E5FF?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=000000" />
+</a>
+
+<a href="https://AccountBlaster.com">
+<img src="https://img.shields.io/badge/💰_ACCOUNTBLASTER-SYSTEM_ACTIVE-00FFAA?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=000000" />
+</a>
+
+<a href="https://super-bomb.com">
+<img src="https://img.shields.io/badge/💣_SUPER_BOMB-REVERSI_ENGINE-FF004D?style=for-the-badge&logo=gamejolt&logoColor=ffffff&labelColor=000000" />
+</a>
+
+<a href="https://Bee.icu">
+<img src="https://img.shields.io/badge/🐝_BEE.ICU-SWARM_PROTOCOL-FFE600?style=for-the-badge&logo=apachekafka&logoColor=000000&labelColor=000000" />
+</a>
+
+<a href="https://SantaCruzWebFactory.com">
+<img src="https://img.shields.io/badge/🌊_SANTA_CRUZ-WEB_FACTORY-FF00FF?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=000000" />
+</a>
+
+</div>
+
+---
+
 
 
 
