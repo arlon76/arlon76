@@ -597,3 +597,271 @@ CONNECTION: ENCRYPTED
 arlon76/arlon76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,15:001122,35:00E5FF,55:FF00FF,75:00FFAA,100:000000&height=520&section=header&text=⚡%20ARLON76%20⚡&fontSize=92&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=1200&pause=250&color=00E5FF&background=000000FF&center=true&vCenter=true&multiline=true&repeat=true&width=1600&height=240&lines=◤+CYBERSPACE+SYSTEMS+ENGINEER+◢;⚡+SUPER+BOMB+NETWORK+⚡;🐝+BEEVERSI+SWARM+ONLINE+🐝;🌊+SANTA+CRUZ+WEB+FACTORY+🌊;💣+MULTIPLAYER+GAME+ARCHITECT+💣" />
+
+</div>
+
+<table width="100%">
+<tr>
+<td bgcolor="#000000">
+
+<div align="center">
+
+# ⚡⚡⚡ ACCESS TERMINAL ⚡⚡⚡
+
+<a href="https://arlon76.github.io">
+<img src="https://img.shields.io/badge/🌐_ARLON76.PORTAL-ONLINE-00E5FF?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=000000" />
+</a>
+
+<a href="https://AccountBlaster.com">
+<img src="https://img.shields.io/badge/💰_ACCOUNTBLASTER-ACTIVE-00FFAA?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=000000" />
+</a>
+
+<a href="https://super-bomb.com">
+<img src="https://img.shields.io/badge/💣_SUPER_BOMB-REVERSI_ENGINE-FF004D?style=for-the-badge&logo=gamejolt&logoColor=ffffff&labelColor=000000" />
+</a>
+
+<a href="https://Bee.icu">
+<img src="https://img.shields.io/badge/🐝_BEE.ICU-SWARM_PROTOCOL-FFE600?style=for-the-badge&logo=apachekafka&logoColor=000000&labelColor=000000" />
+</a>
+
+<a href="https://SantaCruzWebFactory.com">
+<img src="https://img.shields.io/badge/🌊_WEB_FACTORY-CYBERSPACE-FF00FF?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=000000" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00E5FF,100:000000&height=12&section=header" />
+
+```txt id="ax0l8z"
+███████████████████████████████████████████████████████████████
+█                                                             █
+█      ⚡  ARLON ARRIOLA // SYSTEM STATUS: ONLINE  ⚡         █
+█                                                             █
+█      💻 SOFTWARE ENGINEER                                   █
+█      💣 GAME SYSTEMS DESIGNER                               █
+█      🌐 WEB FACTORY OPERATOR                                █
+█      🐝 SWARM ENGINE ARCHITECT                              █
+█      🚀 MULTIPLAYER FRAMEWORK CREATOR                       █
+█                                                             █
+███████████████████████████████████████████████████████████████
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF00FF,100:000000&height=12&section=header" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌐⚡ DIGITAL DIMENSIONS ⚡🌐
+
+</div>
+
+<table width="100%" bgcolor="#000000">
+
+<tr>
+<td align="center"><h2>🌊 PERSONAL NODE 🌊</h2></td>
+<td align="center">
+
+<a href="https://ArlonArriola.com">
+<img src="https://img.shields.io/badge/ENTER-ARLONARRIOLA.COM-00E5FF?style=for-the-badge&labelColor=000000" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><h2>💰 ACCOUNTING MATRIX 💰</h2></td>
+<td align="center">
+
+<a href="https://AccountBlaster.com">
+<img src="https://img.shields.io/badge/LAUNCH-ACCOUNTBLASTER-00FFAA?style=for-the-badge&labelColor=000000" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><h2>🐝 BEEVERSI SWARM 🐝</h2></td>
+<td align="center">
+
+<a href="https://Bee.icu">
+<img src="https://img.shields.io/badge/CONNECT-BEE.ICU-FFE600?style=for-the-badge&labelColor=000000" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center"><h2>🌊🛹 WEB FACTORY 🛹🌊</h2></td>
+<td align="center">
+
+<a href="https://SantaCruzWebFactory.com">
+<img src="https://img.shields.io/badge/ACCESS-WEB_FACTORY-FF00FF?style=for-the-badge&labelColor=000000" />
+</a>
+
+</td>
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:FF004D,50:00E5FF,80:FF00FF,100:000000&height=280&section=header&text=💣%20SUPER%20BOMB%20REVERSI%20NETWORK%20💣&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&duration=1000&pause=200&color=FF004D&background=000000FF&center=true&vCenter=true&repeat=true&width=1600&height=120&lines=REVERSI+SYSTEMS+ONLINE;HEXAGONAL+BEEVERSI+ENGAGED;MULTIPLAYER+ARENAS+READY;TOURNAMENT+MODE+ACTIVE;⚡+FULL+POWER+⚡" />
+
+</div>
+
+<div align="center">
+
+<a href="https://super-bomb.com">
+<img src="https://img.shields.io/badge/💣_SUPER--BOMB.COM-LIVE-ff0033?style=for-the-badge&labelColor=000000" />
+</a>
+
+<a href="https://1reversi.com">
+<img src="https://img.shields.io/badge/♟️_1REVERSI.COM-ONLINE-00E5FF?style=for-the-badge&labelColor=000000" />
+</a>
+
+<a href="https://othelloworld.com">
+<img src="https://img.shields.io/badge/🌎_OTHELLO_WORLD-ACTIVE-00FFAA?style=for-the-badge&labelColor=000000" />
+</a>
+
+<a href="https://reversi.world">
+<img src="https://img.shields.io/badge/🌀_REVERSI.WORLD-NETWORK_NODE-ffaa00?style=for-the-badge&labelColor=000000" />
+</a>
+
+<a href="https://reversitournament.com">
+<img src="https://img.shields.io/badge/🏆_REVERSI_TOURNAMENT-READY-ff00ff?style=for-the-badge&labelColor=000000" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡🧠 CURRENT DIRECTIVES 🧠⚡
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=900&pause=180&color=00E5FF&background=000000FF&center=true&vCenter=true&repeat=true&width=1500&height=120&lines=TCP%2FIP+CONCEPTS;MULTIPLAYER+GAME+SYSTEMS;ACCOUNTING+SOFTWARE;RETRO+ARCADE+ENGINES;PROCEDURAL+WEB+EXPERIMENTS;🤖+ROBOTICS+%5BLOCKED%5D" />
+
+</div>
+
+```txt id="u0g8qg"
+╔══════════════════════════════════════════════════════════════╗
+║ ⚡ PROGRAMMING                                              ║
+║ ⚡ SUPER BOMB REVERSI                                       ║
+║ ⚡ BEEVERSI                                                  ║
+║ ⚡ ACCOUNTBLASTER                                            ║
+║ ⚡ WEB BLASTER                                               ║
+║ ⚡ APPRAISAL BLASTER                                         ║
+║ ⚡ BLAST BLASTER                                             ║
+║ ⚡ ROBOTICS [COMING SOON]                                    ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arlon76&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF&border_color=00E5FF" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arlon76&theme=highcontrast&background=000000&ring=00E5FF&fire=FF00FF&currStreakLabel=FFFFFF" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,25:00E5FF,50:FF00FF,75:00FFAA,100:000000&height=520&section=footer&text=⚡%20WELCOME%20TO%20THE%20WEB%20FACTORY%20⚡&fontColor=ffffff&fontSize=64&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=800&pause=120&color=FFFFFF&background=000000FF&center=true&vCenter=true&repeat=true&width=1600&height=120&lines=SYSTEM+STATUS%3A+ONLINE;MATRIX+HUD%3A+ACTIVE;WEB+FACTORY%3A+OPERATIONAL;SWARM+PROTOCOL%3A+CONNECTED;⚡+MAXIMUM+POWER+⚡" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
