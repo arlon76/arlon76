@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=1800&pause=400&color=00E5FF&background=000000FF&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=180&lines=⚡ARLON76+⚡;◤+CYBERSPACE+ENGINEER+◢;💣+SUPER+BOMB+NETWORK+💣;🐝+BEEVERSI+SWARM+ONLINE+🐝;🌊+SANTA+CRUZ+WEB+FACTORY+🌊" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=1800&pause=400&color=00E5FF&background=000000FF&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=320&lines=⚡ARLON76+⚡;◤+CYBERSPACE+ENGINEER+◢;💣+SUPER+BOMB+NETWORK+💣;🐝+BEEVERSI+SWARM+ONLINE+🐝;🌊+SANTA+CRUZ+WEB+FACTORY+🌊" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0011ff,50:00e5ff,75:ff00ff,100:000000&height=180&section=header&text=ARLON%20ARRIOLA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
@@ -140,7 +140,7 @@
 
 # ⚡🧠 CURRENT SYSTEM DIRECTIVES 🧠⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1600&pause=350&color=00E5FF&background=000000FF&center=true&vCenter=true&repeat=true&width=1200&lines=TCP%2FIP+CONCEPTS;MULTIPLAYER+ARCADE+SYSTEMS;RETRO+GAME+ENGINES;ACCOUNTING+SOFTWARE;PROCEDURAL+WEB+EXPERIMENTS;ROBOTICS+%5BLOCKED%5D" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1600&pause=350&color=00E5FF&background=000000FF&center=true&vCenter=true&repeat=true&width=1200&color=00E5FF&background=000000FF&lines=TCP%2FIP+CONCEPTS;MULTIPLAYER+ARCADE+SYSTEMS;RETRO+GAME+ENGINES;ACCOUNTING+SOFTWARE;PROCEDURAL+WEB+EXPERIMENTS;ROBOTICS+%5BLOCKED%5D" />
 
 </div>
 
@@ -446,7 +446,7 @@ BUILD: ARLON76
 
 
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FF99&center=true&vCenter=true&width=900&lines=ARLON+ARRIOLA;ACCOUNTBLASTER+ONLINE;SUPER+BOMB+REVERSI+SYSTEMS+ACTIVE;SANTA+CRUZ+WEB+FACTORY" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FF99&center=true&vCenter=true&width=900&color=00E5FF&background=000000FF&lines=ARLON+ARRIOLA;ACCOUNTBLASTER+ONLINE;SUPER+BOMB+REVERSI+SYSTEMS+ACTIVE;SANTA+CRUZ+WEB+FACTORY" />
 
 <p align="center">
 
