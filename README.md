@@ -751,7 +751,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:FF004D,50:00E5FF,80:FF00FF,100:000000&height=280&section=header&text=💣%20SUPER%20BOMB%20REVERSI%20NETWORK%20💣&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&width=1400" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:FF004D,50:00E5FF,80:FF00FF,100:000000&height=280&section=header&text=💣%20SUPER%20BOMB%20REVERSI%20💣&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&width=1400" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&duration=1000&pause=200&color=FF004D&background=000000FF&center=true&vCenter=true&repeat=true&width=1600&height=120&lines=REVERSI+SYSTEMS+ONLINE;HEXAGONAL+BEEVERSI+ENGAGED;MULTIPLAYER+ARENAS+READY;TOURNAMENT+MODE+ACTIVE;⚡+FULL+POWER+⚡" />
 
@@ -835,6 +835,87 @@ You can click the Preview link to take a look at your changes.
 
 
 
+<!-- ===================================================== -->
+
+<!-- HARDCORE MILITARY / MATRIX / TACTICAL COLORWAYS       -->
+
+<!-- ===================================================== -->
+
+<!-- ELECTRIC GREEN + BLACK -->
+<a href="https://arlon76.github.io">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,35:001100,65:00FF00,100:000000&height=360&section=header&text=⚡%20SYSTEM%20ONLINE%20⚡&fontSize=68&fontColor=00FF00&animation=blinking&width=1400" />
+</a>
+<!-- ELECTRIC BLUE + BLACK -->
+
+<a href="https://arlon76.github.io">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00E5FF,100:000000&height=360&section=header&text=◤%20TACTICAL%20NETWORK%20◢&fontSize=64&fontColor=FFFFFF&animation=fadeIn&width=1400" />
+</a>
+
+<!-- GREEN + ELECTRIC BLUE + BLACK -->
+
+<a href="https://arlon76.github.io">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:00FF00,50:00E5FF,75:00FF00,100:000000&height=420&section=header&text=⚡%20WEB%20FACTORY%20⚡&fontSize=72&fontColor=FFFFFF&animation=twinkling&width=1400" />
+</a>
+
+<!-- ORANGE + BLACK -->
+
+<a href="https://arlon76.github.io">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,45:FF6600,100:000000&height=340&section=header&text=🔥%20COMBAT%20MODE%20🔥&fontSize=68&fontColor=FFFFFF&animation=fadeIn&width=1400" />
+</a>
+
+<!-- GREEN + ORANGE + BLACK -->
+
+<a href="https://arlon76.github.io">
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,25:00FF00,50:FF8800,75:00FF00,100:000000&height=420&section=header&text=💣%20SUPER%20BOMB%20NETWORK%20💣&fontSize=60&fontColor=FFFFFF&animation=blinking&width=1400" />
+</a>
+
+<!-- GREEN + YELLOW + BLACK -->
+
+<a href="https://arlon76.github.io">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:00FF00,50:FFFF00,80:00FF00,100:000000&height=420&section=header&text=⚠️%20WARNING%20⚠️&fontSize=70&fontColor=000000&animation=twinkling&width=1400" />
+</a>
+
+<!-- PURE MATRIX -->
+
+<a href="https://arlon76.github.io">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF00,100:000000&height=500&section=header&text=MATRIX%20LINK%20ESTABLISHED&fontSize=72&fontColor=00FF00&animation=blinking&width=1400" />
+</a>
+
+<!-- ELECTRIC BLUE TACTICAL -->
+
+<a href="https://arlon76.github.io">
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,30:001133,50:00E5FF,70:001133,100:000000&height=420&section=header&text=◣%20CYBERSPACE%20CONTROL%20◢&fontSize=66&fontColor=FFFFFF&animation=fadeIn&width=1400" />
+</a>
+
+<!-- ORANGE + PURPLE + BLACK -->
+
+<a href="https://arlon76.github.io">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,25:FF6600,50:AA00FF,75:FF6600,100:000000&height=420&section=header&text=⚡%20ENERGY%20SURGE%20⚡&fontSize=68&fontColor=FFFFFF&animation=blinking&width=1400" />
+</a>
+
+<!-- PURE GREEN BLACK OPS -->
+
+<a href="https://arlon76.github.io">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,15:001100,50:00FF00,85:001100,100:000000&height=600&section=header&text=BLACK%20OPS%20ONLINE&fontSize=86&fontColor=00FF00&animation=blinking&width=1400" />
+</a>
+
+<!-- ELECTRIC BLUE COMMAND -->
+
+<a href="https://arlon76.github.io">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:001122,50:00E5FF,80:001122,100:000000&height=520&section=header&text=COMMAND%20NODE&fontSize=80&fontColor=FFFFFF&animation=fadeIn&width=1400" />
+</a>
+
+<!-- GREEN/YELLOW HAZARD -->
+
+<a href="https://arlon76.github.io">
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,20:00FF00,50:FFFF00,80:00FF00,100:000000&height=480&section=header&text=HAZARD%20ZONE&fontSize=78&fontColor=000000&animation=twinkling&width=1400" />
+</a>
+
+<!-- PURE ELECTRIC ORANGE -->
+
+<a href="https://arlon76.github.io">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF6600,100:000000&height=480&section=header&text=TARGET%20LOCKED&fontSize=82&fontColor=FFFFFF&animation=blinking&width=1400" />
+</a>
 
 
 
