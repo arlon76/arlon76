@@ -162,7 +162,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arlon76&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF&border_color=00E5FF" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=arlon76&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF&border_color=00E5FF" />-->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arlon76&theme=highcontrast&background=000000&ring=00E5FF&fire=FF00FF&currStreakLabel=FFFFFF" />
 
@@ -316,7 +316,7 @@
 > RETRO ARCADE ENGINES
 > ACCOUNTING SOFTWARE
 > PROCEDURAL WEB EXPERIMENTS
-> ROBOTICS [LOCKED]
+> ROBOTICS
 ```
 
 ---
