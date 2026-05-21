@@ -893,16 +893,16 @@ You can click the Preview link to take a look at your changes.
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,25:FF6600,50:AA00FF,75:FF6600,100:000000&height=420&section=header&text=⚡%20ENERGY%20SURGE%20⚡&fontSize=68&fontColor=FFFFFF&animation=blinking&width=1400" />
 </a>
 
-<!-- PURE GREEN BLACK OPS -->
+<!-- PURE GREEN REVERSI ONLINE -->
 
 <a href="https://arlon76.github.io">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,15:001100,50:00FF00,85:001100,100:000000&height=600&section=header&text=BLACK%20OPS%20ONLINE&fontSize=86&fontColor=00FF00&animation=blinking&width=1400" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,15:001100,50:00FF00,85:001100,100:000000&height=600&section=header&text=REVERSI%20ONLINE&fontSize=86&fontColor=00FF00&animation=blinking&width=1400" />
 </a>
 
 <!-- ELECTRIC BLUE COMMAND -->
 
 <a href="https://arlon76.github.io">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:001122,50:00E5FF,80:001122,100:000000&height=520&section=header&text=COMMAND%20NODE&fontSize=80&fontColor=FFFFFF&animation=fadeIn&width=1400" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:001122,50:00E5FF,80:001122,100:000000&height=520&section=header&text=OCEAN%20SPRAY&fontSize=80&fontColor=FFFFFF&animation=fadeIn&width=1400" />
 </a>
 
 <!-- GREEN/YELLOW HAZARD -->
@@ -915,6 +915,10 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://arlon76.github.io">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF6600,100:000000&height=480&section=header&text=TARGET%20LOCKED&fontSize=82&fontColor=FFFFFF&animation=blinking&width=1400" />
+  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00E5FF,100:000000&height=320&width=1500&section=header&text=COMMAND%20NODE&fontSize=84&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF00,100:000000&height=320&width=1500&section=header&text=SYSTEM%20ONLINE&fontSize=80&fontColor=00FF00" />
+
 </a>
 
 
