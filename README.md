@@ -2,10 +2,11 @@
 
 <div align="center">
 
+<a href="https://super-bomb.com">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=1800&pause=400&color=00E5FF&background=000000FF&center=true&vCenter=true&multiline=true&repeat=true&width=1400&height=320&lines=⚡ARLON76+⚡;◤+CYBERSPACE+ENGINEER+◢;💣+SUPER+BOMB+NETWORK+💣;🐝+BEEVERSI+SWARM+ONLINE+🐝;🌊+SANTA+CRUZ+WEB+FACTORY+🌊" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0011ff,50:00e5ff,75:ff00ff,100:000000&height=180&section=header&text=ARLON%20ARRIOLA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0011ff,50:00e5ff,75:ff00ff,100:000000&height=180&section=header&text=ARLON76%20ARRIOLA&fontSize=60&fontColor=00FF00&animation=twinkling&fontAlignY=35&background=000000" />
+</a>
 </div>
 
 ---
@@ -631,7 +632,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,15:001122,35:00E5FF,55:FF00FF,75:00FFAA,100:000000&height=520&section=header&text=⚡%20ARLON76%20⚡&fontSize=92&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,1:001122,35:00E5FF,55:FF00FF,99:00FFAA,100:000000&height=520&section=header&text=⚡%20ARLON76%20⚡&fontSize=92&fontColor=000000&animation=fadeIn&fontAlignY=38" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=1200&pause=250&color=00E5FF&background=000000FF&center=true&vCenter=true&multiline=true&repeat=true&width=1600&height=240&lines=◤+CYBERSPACE+SYSTEMS+ENGINEER+◢;⚡+SUPER+BOMB+NETWORK+⚡;🐝+BEEVERSI+SWARM+ONLINE+🐝;🌊+SANTA+CRUZ+WEB+FACTORY+🌊;💣+MULTIPLAYER+GAME+ARCHITECT+💣" />
 
@@ -751,10 +752,12 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
+<a href="https://super-bomb.com">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:FF004D,50:00E5FF,80:FF00FF,100:000000&height=280&section=header&text=💣%20SUPER%20BOMB%20REVERSI%20💣&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&width=1400" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&duration=1000&pause=200&color=FF004D&background=000000FF&center=true&vCenter=true&repeat=true&width=1600&height=120&lines=REVERSI+SYSTEMS+ONLINE;HEXAGONAL+BEEVERSI+ENGAGED;MULTIPLAYER+ARENAS+READY;TOURNAMENT+MODE+ACTIVE;⚡+FULL+POWER+⚡" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&duration=1000&pause=200&color=FF004D&background=000000FF&center=true&vCenter=true&repeat=true&width=1600&height=120&lines=REVERSI+SYSTEMS+ONLINE;HEXAGONAL+BEEVERSI+ENGAGED;MULTIPLAYER+ARENAS+READY;TOURNAMENT+MODE+ACTIVE;⚡+FULL+POWER+⚡" />
+</a>
 </div>
 
 <div align="center">
@@ -793,8 +796,8 @@ You can click the Preview link to take a look at your changes.
 
 ```txt id="u0g8qg"
 ╔══════════════════════════════════════════════════════════════╗
-║ ⚡ PROGRAMMING                                              ║
-║ ⚡ SUPER BOMB REVERSI                                       ║
+║ ⚡ PROGRAMMING                                               ║
+║ ⚡ SUPER BOMB REVERSI                                        ║
 ║ ⚡ BEEVERSI                                                  ║
 ║ ⚡ ACCOUNTBLASTER                                            ║
 ║ ⚡ WEB BLASTER                                               ║
@@ -820,7 +823,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,25:00E5FF,50:FF00FF,75:00FFAA,100:000000&height=520&section=footer&text=⚡%20WELCOME%20TO%20THE%20WEB%20FACTORY%20⚡&fontColor=ffffff&fontSize=64&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,25:00E5FF,50:FF00FF,75:00FFAA,100:000000&height=520&section=footer&text=⚡%20SC%20WEB%20FACTORY%20⚡&fontColor=000000&background=000000&fontSize=64&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=800&pause=120&color=FFFFFF&background=000000FF&center=true&vCenter=true&repeat=true&width=1600&height=120&lines=SYSTEM+STATUS%3A+ONLINE;MATRIX+HUD%3A+ACTIVE;WEB+FACTORY%3A+OPERATIONAL;SWARM+PROTOCOL%3A+CONNECTED;⚡+MAXIMUM+POWER+⚡" />
 
@@ -866,7 +869,7 @@ You can click the Preview link to take a look at your changes.
 <!-- GREEN + ORANGE + BLACK -->
 
 <a href="https://arlon76.github.io">
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,25:00FF00,50:FF8800,75:00FF00,100:000000&height=420&section=header&text=💣%20SUPER%20BOMB%20NETWORK%20💣&fontSize=60&fontColor=FFFFFF&animation=blinking&width=1400" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,25:00FF00,50:FF8800,75:00FF00,100:000000&height=420&section=header&text=💣%20SUPER%20BOMB%20💣&fontSize=60&fontColor=ffffff&background=000000&animation=blinking&width=1400" />
 </a>
 
 <!-- GREEN + YELLOW + BLACK -->
