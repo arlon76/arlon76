@@ -878,7 +878,7 @@ You can click the Preview link to take a look at your changes.
 <!-- PURE MATRIX -->
 
 <a href="https://arlon76.github.io">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF00,100:000000&height=500&section=header&text=MATRIX%20LINK%20ESTABLISHED&fontSize=72&fontColor=00FF00&animation=blinking&width=1400" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF00,100:000000&height=500&section=header&text=LINK%20ESTABLISHED&fontSize=72&fontColor=00FF00&animation=blinking&width=1400" />
 </a>
 
 <!-- ELECTRIC BLUE TACTICAL -->
