@@ -887,7 +887,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ELECTRIC BLUE TACTICAL -->
 
 <a href="https://arlon76.github.io">
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,30:001133,50:00E5FF,70:001133,100:000000&height=420&section=header&text=◣%20CYBERSPACE%20CONTROL%20◢&fontSize=66&fontColor=FFFFFF&animation=fadeIn&width=1400" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,30:001133,50:00E5FF,70:001133,100:000000&height=420&section=header&text=◣%20CYBERSPACE%20CONTROL%20◢&fontSize=66&fontColor=000000&animation=fadeIn&width=1400" />
 </a>
 
 <!-- ORANGE + PURPLE + BLACK -->
