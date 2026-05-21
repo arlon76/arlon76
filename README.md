@@ -869,7 +869,7 @@ You can click the Preview link to take a look at your changes.
 <!-- GREEN + ORANGE + BLACK -->
 
 <a href="https://arlon76.github.io">
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,25:00FF00,50:FF8800,75:00FF00,100:000000&height=420&section=header&text=💣%20SUPER%20BOMB%20💣&fontSize=60&fontColor=ffffff&background=000000&animation=blinking&width=1400" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,25:00FF00,50:FF8800,75:00FF00,100:000000&height=420&section=header&text=💣%20SUPER%20BOMB%20💣&fontSize=60&fontColor=000000&background=000000&animation=blinking&width=1400" />
 </a>
 
 <!-- GREEN + YELLOW + BLACK -->
